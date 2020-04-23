@@ -122,7 +122,8 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
-EMAIL_HOST_USER = 'smishra1605@gmail.com'
-EMAIL_HOST_PASSWORD = 'sanjana8580'
+# To do: Add ur email id and password here to start the script working
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_SSL =  False
 EMAIL_USE_TLS = True
