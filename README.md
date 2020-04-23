@@ -1,6 +1,6 @@
 # Django-AutoMailerScript
 
-##### This is th django code for a registration page.
+### This is django code for a registration page.
 ##### Whenever there is successfull registration it shoots out a mail showing successful registration.
 
 
